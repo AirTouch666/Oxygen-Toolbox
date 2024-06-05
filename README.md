@@ -1,8 +1,8 @@
-<img src="https://airpicture.pages.dev/file/0e5d7b5234943676b0799.png" alt="Static Badge" style="zoom:18%;" />
+<img src="https://airpicture.pages.dev/file/0e5d7b5234943676b0799.png" alt="Static Badge" width="18%;" />
 
 ​														                                         **Blog:[AirTouch's blog](blog.airtouch.top)**
 
-​                     								![Static Badge](https://img.shields.io/badge/state-coding-light)  ![Static Badge](https://img.shields.io/badge/language-Python-light)  ![Static Badge](https://img.shields.io/badge/IDE-Pycharm-light)  ![Static Badge](https://img.shields.io/badge/licence-AGPL3.0-orange)  ![Static Badge](https://img.shields.io/badge/time-1 month-blue)
+​                     								![Static Badge](https://img.shields.io/badge/state-coding-light)  ![Static Badge](https://img.shields.io/badge/language-Python-light)  ![Static Badge](https://img.shields.io/badge/IDE-Pycharm-light)  ![Static Badge](https://img.shields.io/badge/licence-AGPL3.0-orange)  ![Static Badge](https://img.shields.io/badge/time-1month-blue)
 
 # 关于
 

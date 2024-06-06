@@ -1,6 +1,9 @@
-<center><img src="https://airpicture.pages.dev/file/0e5d7b5234943676b0799.png" alt="Static Badge" width="18%;" /></center>
-
-​														                                        <center>Oxygen-Toolbox</center>
+<p align="center">
+  <img src="https://airpicture.pages.dev/file/0e5d7b5234943676b0799.png" alt="Static Badge" width="18%;" />
+</p>
+<p align="center">
+  <b>Oxygen-Toolbox</b>
+</p>														             
 
 <p align="center">
   <img src="https://img.shields.io/badge/state-coding-light" />

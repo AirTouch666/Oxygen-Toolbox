@@ -1,8 +1,14 @@
-<img src="https://airpicture.pages.dev/file/0e5d7b5234943676b0799.png" alt="Static Badge" width="18%;" />
+<center><img src="https://airpicture.pages.dev/file/0e5d7b5234943676b0799.png" alt="Static Badge" width="18%;" /></center>
 
-​														                                         **Blog:[AirTouch's blog](blog.airtouch.top)**
+​														                                        <center>Oxygen-Toolbox</center>
 
-​                     								![Static Badge](https://img.shields.io/badge/state-coding-light)  ![Static Badge](https://img.shields.io/badge/language-Python-light)  ![Static Badge](https://img.shields.io/badge/IDE-Pycharm-light)  ![Static Badge](https://img.shields.io/badge/licence-AGPL3.0-orange)  ![Static Badge](https://img.shields.io/badge/time-1month-blue)
+<p align="center">
+  <img src="https://img.shields.io/badge/state-coding-light" />
+  <img src="https://img.shields.io/badge/language-Python-light" />
+  <img src="https://img.shields.io/badge/IDE-Pycharm-light" />
+  <img src="https://img.shields.io/badge/licence-AGPL3.0-orange" />
+  <img src="https://img.shields.io/badge/time-1month-blue" />
+</p>
 
 # 关于
 
